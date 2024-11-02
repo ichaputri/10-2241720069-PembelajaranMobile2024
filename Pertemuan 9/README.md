@@ -18,7 +18,7 @@
 
 # Hasil Praktikum Pertemuan - 9
 
-Untuk Laporan lebih lengkap bisa dilihat di [Laporan Praktikum untuk pertemuan 9](https://colab.research.google.com/drive/1xwQ)
+Untuk Laporan lebih lengkap bisa dilihat di [Laporan Praktikum untuk pertemuan 9](https://github.com/ichaputri/10-2241720069-PembelajaranMobile2024/blob/cbd95e4faba2c9512f6b40152e53d1729d0329f3/Pertemuan%209/LaporanPraktikum.md)
 
 ---
 
@@ -26,8 +26,8 @@ Untuk Laporan lebih lengkap bisa dilihat di [Laporan Praktikum untuk pertemuan 9
 ![hasil](images/hasil.png)
 
 ## Photo_filter_caraousel
-<video controls src="images/hasil2.mp4" title="Title"></video>
+![alt text](<images/hasil2 (3).gif>)
 
 ## Tugas Praktikum
 Gabungan antara kamera flutter dan photo filter carousel
-<video controls src="images/tugas.mp4" title="Title"></video>
+![alt text](<tugas (1).gif>)

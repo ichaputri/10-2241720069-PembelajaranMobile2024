@@ -187,7 +187,7 @@ import 'package:flutter/rendering.dart' show ViewportOffset;
 
 #### Hasil Praktikum
 
-<video controls src="images/hasil2.mp4" title="Title"></video>
+![hasil](<hasil2 (3)-1.gif>)
 
 
 # Tugas Praktikum
@@ -196,7 +196,7 @@ import 'package:flutter/rendering.dart' show ViewportOffset;
 2. Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!
     > **Jawaban** : <br> Untuk kode bisa dilihat di folder project kamera_flutter
 
-    <video controls src="images/tugas.mp4" title="Title"></video>
+    ![hasiltugas](<tugas (1)-1.gif>)
 
 1. Jelaskan maksud void async pada praktikum 1?
     > **Jawaban** : <br>
