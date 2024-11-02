@@ -30,4 +30,4 @@ Untuk Laporan lebih lengkap bisa dilihat di [Laporan Praktikum untuk pertemuan 9
 
 ## Tugas Praktikum
 Gabungan antara kamera flutter dan photo filter carousel
-![alt text](<tugas (1).gif>)
+![alt text](<images/tugas (1).gif>)
