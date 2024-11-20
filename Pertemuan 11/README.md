@@ -59,7 +59,7 @@
 - Menampilkan notifikasi berhasil atau error menggunakan `SnackBar`.
 
     ![alt text](<img/Cuplikan layar 2024-11-20 134708.png>)
-<br>
+    <br>
 
     ![alt text](<img/Cuplikan layar 2024-11-20 185006.png>)
 ---
